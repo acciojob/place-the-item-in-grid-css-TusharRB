@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+.holder {
+  display: grid;
+  grid-template-columns: repeat(2, 200px);
+  grid-template-rows: repeat(2, 200px);
+  grid-gap: 10px; /* Optional gap between grid items */
+}
+
+.item {
+  /* Add any desired styling for the items */
+}
