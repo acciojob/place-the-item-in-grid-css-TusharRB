@@ -1,6 +1,6 @@
 .holder {
   display: grid;
-  grid-template-columns: repeat(2, 200px);
+  grid-template-columns: repeat(100, 100px);
   grid-template-rows: repeat(2, 200px);
   grid-gap: 10px; /* Optional gap between grid items */
 }
